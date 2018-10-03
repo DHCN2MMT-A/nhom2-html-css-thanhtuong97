@@ -1,0 +1,65 @@
+/*==Reset CSS==*/
+* {
+    margin: 0;
+    padding: 0;
+  }
+   
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+  body {
+    background-color: lightgreen;
+  }
+
+h1 {
+    color: red;
+    text-align: center;
+    
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+  }
+
+  h2{
+    color: red;
+    text-align: center;
+    
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+  }
+
+p {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
